@@ -1,0 +1,5 @@
+<resources>
+    <color name="primaryColor">@android:color/holo_blue_bright</color>
+    <color name="primaryDark">@android:color/holo_blue_dark</color>
+    <color name="accentcolar">@android:color/holo_red_dark</color>
+</resources>
